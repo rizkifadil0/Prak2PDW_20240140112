@@ -4,3 +4,7 @@ NIM : 20240140112 <br>
 
 Tugas 1 PDW <br>
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/f1ab3349-8f00-4118-96b8-0a696e0d627d" />
+
+Tugas 2 PDW 
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/7f338ed5-02fe-4346-85f0-4effccfa42fd" />
+
